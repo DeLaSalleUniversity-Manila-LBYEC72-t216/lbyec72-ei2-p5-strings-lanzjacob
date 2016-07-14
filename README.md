@@ -1,3 +1,16 @@
-# lbyec72-ei2-p5-strings-lanzjacob
-lbyec72-ei2-p5-strings-lanzjacob created by GitHub Classroom
+# Activity #5: Strings, String Arrays, and String Manipulation Functions
+
+###PROGRAM SCREENSHOTS
+![](1.PNG)
+![](2.PNG)
+![](3.PNG)
+![](4.PNG)
+![](5.PNG)
+![](6.PNG)
+![](7.PNG)
+![](8.PNG)
+![](9.PNG)
+![](10.PNG)
+![](11.PNG)
+![](12.PNG)
 
